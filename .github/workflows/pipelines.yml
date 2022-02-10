@@ -20,6 +20,7 @@ jobs:
         run: npm install -g codecov
 
       # pipeline actions
+      - run: npm install
       - run: npm run test:cov
       - run: codecov
         env:
