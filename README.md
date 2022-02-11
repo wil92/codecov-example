@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/wil92/codecov-example/branch/master/graph/badge.svg?token=V53RAWVS5T)](https://codecov.io/gh/wil92/codecov-example)
+
 # CodecovExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
